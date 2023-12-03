@@ -1,0 +1,4 @@
+Emp_ID	Gender	Age
+E01	F	25
+E02	M	27
+E03	M	25
